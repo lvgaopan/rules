@@ -1,0 +1,6 @@
+# 直连补充列表
+
+DOMAIN-SUFFIX,lastpass.com
+
+# zerotier
+IP-CIDR,103.195.103.66/32
