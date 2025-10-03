@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,lastpass.com
 
 # zerotier
 IP-CIDR,103.195.103.66/32
+IP-CIDR,185.152.67.145/32
